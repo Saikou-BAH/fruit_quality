@@ -79,6 +79,6 @@ Les résultats obtenus sont encourageants, avec des modèles capables de bien di
 ---
 
 ### **9. Contact**  
-Pour toute question ou suggestion, n'hésitez pas à me contacter : **https://saikou-bah.github.io/mon_site_public/**  
+Pour toute question ou suggestion, n'hésitez pas à me contacter : **https://saikou-bah.github.io/Portfolio_/#portfolio**  
 
 ---
